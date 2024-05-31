@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maaz Ansari</h1>
-<h3 align="center">A passionate frontend developer from Currently Persuing my MCA from NIT Kurukshetra</h3>
+<h3 align="center">A passionate Frontend Developer, Currently Persuing my MCA from NIT Kurukshetra</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxansari007" alt="mxansari007" /></a> </p>
 
