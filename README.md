@@ -13,7 +13,7 @@
 ## Research profile
 
 I am an MCA graduate from the National Institute of Technology Kurukshetra
-(CGPA 8.65/10) and a Technical Trainer at Chandigarh University. My current
+(CGPA 8.6/10) and a Technical Trainer at Chandigarh University. My current
 work connects careful evaluation with deployable AI systems:
 
 - explainable learning for imbalanced gastrointestinal-disease classification;
